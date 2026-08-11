@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_36_介護療養型医療施設",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "善成病院【介護療養型医療施設】徳島県徳島市佐古三番町７番３号", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3610123709-00&ServiceCd=530&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.535425900000064, 34.0785659 ] } },
+{ "type": "Feature", "properties": { "内容": "森岡病院【介護療養型医療施設】徳島県徳島市八万町大野５－１", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3610125365-00&ServiceCd=530&Type=search", "url2": "http://www.keirou-medical.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.549713699999984, 34.0434282 ] } },
+{ "type": "Feature", "properties": { "内容": "阿南医療センター【介護療養型医療施設】徳島県阿南市宝田町川原6番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3610410023-00&ServiceCd=530&Type=search", "url2": "http://www.anan-medc.jp" }, "geometry": { "type": "Point", "coordinates": [ 134.646330799999987, 33.924303200000018 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人博美会　大野病院【介護療養型医療施設】徳島県阿波市土成町土成字南原231番地", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3611610043-00&ServiceCd=530&Type=search", "url2": "http://hakubi-ohno-hp.com/" }, "geometry": { "type": "Point", "coordinates": [ 134.343885, 34.1020728 ] } },
+{ "type": "Feature", "properties": { "内容": "成田病院【介護療養型医療施設】徳島県美馬市脇町字拝原2576番地", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3610510087-00&ServiceCd=530&Type=search", "url2": "http://www.fujinokai.net" }, "geometry": { "type": "Point", "coordinates": [ 134.175362700000051, 34.0650076 ] } },
+{ "type": "Feature", "properties": { "内容": "北條病院【介護療養型医療施設】徳島県三好市池田町マチ２５２６－７", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3610610051-00&ServiceCd=530&Type=search", "url2": "hojyo-hosp@galaxy.ocn.ne.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.804441633729539, 34.029237988928955 ] } },
+{ "type": "Feature", "properties": { "内容": "芳川病院【介護療養型医療施設】徳島県板野郡松茂町中喜来字群恵278番地8", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3611510235-00&ServiceCd=530&Type=search", "url2": "https://yujoukai.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.593218900000011, 34.1437202 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人　弘誠会　浦田病院【介護療養型医療施設】徳島県板野郡松茂町広島南ハリ13", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3611510037-00&ServiceCd=530&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.577426, 34.1330128 ] } }
+]
+}

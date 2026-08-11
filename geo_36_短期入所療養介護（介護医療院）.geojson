@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_36_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "林内科介護医療院　短期入所療養介護【短期入所療養介護（介護医療院）】徳島県徳島市中昭和町2丁目94番地", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=36B0124770-00&ServiceCd=551&Type=search", "url2": "www.tomido.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 134.55861250000001, 34.0617215 ] } },
+{ "type": "Feature", "properties": { "内容": "稲山病院　介護医療院【短期入所療養介護（介護医療院）】徳島県徳島市南田宮4丁目3番9号", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=36B0124168-00&ServiceCd=551&Type=search", "url2": "https://www.inayama.or.jp/inayama" }, "geometry": { "type": "Point", "coordinates": [ 134.531523, 34.0859042 ] } },
+{ "type": "Feature", "properties": { "内容": "藤野医院介護医療院【短期入所療養介護（介護医療院）】徳島県小松島市坂野町字平田18番地2", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=36B0310403-00&ServiceCd=551&Type=search", "url2": "http://fujino.ezdns.jp" }, "geometry": { "type": "Point", "coordinates": [ 134.633083699999986, 33.9807897 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院鴨島病院【短期入所療養介護（介護医療院）】徳島県吉野川市鴨島町内原432", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=36B1710114-00&ServiceCd=551&Type=search", "url2": "http://kamojima.t-group.net" }, "geometry": { "type": "Point", "coordinates": [ 134.3677543, 34.0700305 ] } },
+{ "type": "Feature", "properties": { "内容": "村山内科介護医療院【短期入所療養介護（介護医療院）】池田町サラダ１７９５番地１", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=36B0610554-00&ServiceCd=551&Type=search", "url2": "https://murayamanaika.com" }, "geometry": { "type": "Point", "coordinates": [ 133.8065949, 34.0279734 ] } }
+]
+}

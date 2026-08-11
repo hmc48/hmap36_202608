@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_36_看護小規模多機能型居宅介護（複合型サービス）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "公益社団法人徳島県看護協会看護小規模多機能型居宅介護あい【看護小規模多機能型居宅介護（複合型サービス）】徳島市上助任町蛭子98-76", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3690100262-00&ServiceCd=&Type=search", "url2": "http://www.toku-na.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.5491409, 34.0912759 ] } },
+{ "type": "Feature", "properties": { "内容": "セントケア看護小規模沖洲【看護小規模多機能型居宅介護（複合型サービス）】徳島県徳島市北沖洲２丁目11番地61号セントケア看護小規模沖洲", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3690168236-00&ServiceCd=&Type=search", "url2": "https://www.care-net.biz/37/saintcare-shikoku/" }, "geometry": { "type": "Point", "coordinates": [ 134.58877480000001, 34.0731944 ] } },
+{ "type": "Feature", "properties": { "内容": "複合型サービスなかよしホーム【看護小規模多機能型居宅介護（複合型サービス）】徳島県阿南市長生町坊ノ前5-1", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3690400118-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.605465500000037, 33.9153656 ] } },
+{ "type": "Feature", "properties": { "内容": "看護小規模多機能型居宅介護　じゅげむ【看護小規模多機能型居宅介護（複合型サービス）】徳島県阿南市見能林町南林396", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3690400142-00&ServiceCd=&Type=search", "url2": "http://suishoukai.jp/index.php" }, "geometry": { "type": "Point", "coordinates": [ 134.677685835769012, 33.893236885086594 ] } },
+{ "type": "Feature", "properties": { "内容": "看護小規模多機能ホーム昴【看護小規模多機能型居宅介護（複合型サービス）】徳島県板野郡藍住町矢上字安任137-1", "url": "https://www.kaigokensaku.mhlw.go.jp/36/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3691500122-00&ServiceCd=&Type=search", "url2": "http://www.ryoun.com/" }, "geometry": { "type": "Point", "coordinates": [ 134.497210200000012, 34.1366204 ] } }
+]
+}
