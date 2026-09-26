@@ -1,0 +1,6341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6394441,
+          34.2346619
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鳴門公園",
+        "name": "鳴門公園",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5722472,
+          34.0701021
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 安宅一丁目",
+        "name": "安宅一丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5771226,
+          34.0690916
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 城東中学校前",
+        "name": "城東中学校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5799797,
+          34.0682375
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 末広四丁目",
+        "name": "末広四丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5843571,
+          34.0670403
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 蛭子前",
+        "name": "蛭子前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5867192,
+          34.0662366
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 沖洲小学校前",
+        "name": "沖洲小学校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5911657,
+          34.0646102
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央市場口",
+        "name": "中央市場口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5910298,
+          34.0644885
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央市場口",
+        "name": "中央市場口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5692811,
+          34.0704862
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福島明神前 (徳島市営バス)",
+        "name": "福島明神前",
+        "operator": "徳島市営バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5668738,
+          34.0707586
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福島一丁目 (徳島市営バス)",
+        "name": "福島一丁目",
+        "operator": "徳島市営バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5640265,
+          34.0710768
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 慈恵院前 (徳島市営バス)",
+        "name": "慈恵院前",
+        "operator": "徳島市営バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5640852,
+          34.070946
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 慈恵院前 (徳島市営バス)",
+        "name": "慈恵院前",
+        "operator": "徳島市営バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5643493,
+          34.0843466
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 吉野川大橋",
+        "name": "吉野川大橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5663693,
+          34.0707077
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福島一丁目 (徳島市営バス)",
+        "name": "福島一丁目",
+        "operator": "徳島市営バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5693673,
+          34.0703482
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福島明神前 (徳島市営バス)",
+        "name": "福島明神前",
+        "operator": "徳島市営バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5267285,
+          34.0407859
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 文化の森",
+        "name": "文化の森",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4462556,
+          34.1076749
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 第十樋門",
+        "name": "第十樋門",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5686026,
+          34.0635991
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 末広一丁目",
+        "name": "末広一丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5038178,
+          33.9903168
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 五滝",
+        "name": "五滝",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5061153,
+          33.9911792
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 五滝会館前",
+        "name": "五滝会館前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5087668,
+          33.9920113
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 坂東",
+        "name": "坂東",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5136548,
+          33.9924197
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 坂東池",
+        "name": "坂東池",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5153351,
+          33.9928973
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上八多",
+        "name": "上八多",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5213865,
+          33.9935173
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南曽根",
+        "name": "南曽根",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5683226,
+          34.0730648
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福住橋",
+        "name": "福住橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5678657,
+          34.0744593
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 住吉東",
+        "name": "住吉東",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.937329,
+          33.880339
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 落合橋 Ochiai-bashi",
+        "name": "落合橋 Ochiai-bashi",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5566338,
+          34.0642201
+        ]
+      },
+      "properties": {
+        "内容": "バス停: かちどき橋一丁目",
+        "name": "かちどき橋一丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5614447,
+          34.0714214
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福島橋",
+        "name": "福島橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5738358,
+          34.0697443
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 安宅一丁目",
+        "name": "安宅一丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5713908,
+          34.0612326
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南末広町",
+        "name": "南末広町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5702121,
+          34.0620405
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南末広町",
+        "name": "南末広町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5653685,
+          34.0668552
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南福島町",
+        "name": "南福島町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5625385,
+          34.068287
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福島新橋",
+        "name": "福島新橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5624944,
+          34.068282
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福島新橋",
+        "name": "福島新橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5575686,
+          34.0684955
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中洲町",
+        "name": "中洲町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5584251,
+          34.0750181
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 助任新橋",
+        "name": "助任新橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5536056,
+          34.0716046
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央郵便局前・徳島市役所北",
+        "name": "中央郵便局前・徳島市役所北",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5485542,
+          34.0732422
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 元町",
+        "name": "元町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5488885,
+          34.0728262
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 元町",
+        "name": "元町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5621464,
+          34.0706701
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福島橋",
+        "name": "福島橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.562404,
+          34.0695596
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 新蔵町三丁目",
+        "name": "新蔵町三丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5624031,
+          34.0691687
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 新蔵町三丁目",
+        "name": "新蔵町三丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5565762,
+          34.0709104
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 文化センター前",
+        "name": "文化センター前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5580792,
+          34.0725186
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島地方検察庁前",
+        "name": "徳島地方検察庁前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4170425,
+          34.1399756
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上板サービスエリア",
+        "name": "上板サービスエリア",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2056501,
+          34.0882538
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿波パーキングエリア",
+        "name": "阿波パーキングエリア",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5590655,
+          34.0779745
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島大学前",
+        "name": "徳島大学前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5604778,
+          34.0809196
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 市民病院前",
+        "name": "市民病院前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5616008,
+          34.0822504
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北常三島",
+        "name": "北常三島",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6370328,
+          34.2311415
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大塚国際美術館前 (徳島バス)",
+        "name": "大塚国際美術館前",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6361141,
+          34.2332123
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 亀浦口",
+        "name": "亀浦口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.636408,
+          34.2334361
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 亀浦口",
+        "name": "亀浦口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6387502,
+          34.2333848
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 亀浦",
+        "name": "亀浦",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.575948,
+          34.069281
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 安宅二丁目",
+        "name": "安宅二丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5781171,
+          34.0685127
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 城東中学校前",
+        "name": "城東中学校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5719856,
+          34.0722379
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 安宅新橋",
+        "name": "安宅新橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5725664,
+          34.0774236
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 住吉新橋",
+        "name": "住吉新橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.576494,
+          34.0761081
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 城東大橋",
+        "name": "城東大橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5741274,
+          34.0741166
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 商業高校前",
+        "name": "商業高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8111243,
+          33.8892297
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 秘境の湯下 Hikyo-no-Yu Shita",
+        "name": "秘境の湯下 Hikyo-no-Yu Shita",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8272171,
+          34.0532059
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 坪尻",
+        "name": "坪尻",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8493795,
+          34.0376174
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三好高校前",
+        "name": "三好高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8436296,
+          34.0396653
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 箸蔵リフト前",
+        "name": "箸蔵リフト前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8283203,
+          34.049619
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8329135,
+          34.0418644
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2977403,
+          33.7869423
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西ノ内上",
+        "name": "西ノ内上",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8415035,
+          34.032377
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三好大橋",
+        "name": "三好大橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8510928,
+          34.0382495
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三好高校前",
+        "name": "三好高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8357865,
+          34.0313922
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大具",
+        "name": "大具",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8316691,
+          34.0298651
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大泉",
+        "name": "大泉",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8317054,
+          34.0299419
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大泉",
+        "name": "大泉",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8567953,
+          34.0398303
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 敷地",
+        "name": "敷地",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6222474,
+          33.9412551
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 古庄",
+        "name": "古庄",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6222099,
+          33.9418915
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 古庄",
+        "name": "古庄",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6505256,
+          33.9199558
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 富岡西校前",
+        "name": "富岡西校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6512655,
+          33.9196117
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 富岡西校前",
+        "name": "富岡西校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3007835,
+          33.7925464
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 平谷西",
+        "name": "平谷西",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2962248,
+          33.7891273
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西ノ内",
+        "name": "西ノ内",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3007537,
+          33.7961347
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 平谷橋",
+        "name": "平谷橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3720939,
+          33.8045444
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 小浜",
+        "name": "小浜",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2724811,
+          33.8140429
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 市宇",
+        "name": "市宇",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.344786,
+          33.8006252
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 春森",
+        "name": "春森",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3475714,
+          33.8083336
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳ヶ谷口",
+        "name": "徳ヶ谷口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3601419,
+          33.8121495
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 長安口",
+        "name": "長安口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3170192,
+          33.7999821
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下司橋",
+        "name": "下司橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3245616,
+          33.7998261
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下御所谷",
+        "name": "下御所谷",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3308073,
+          33.8044913
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 出合",
+        "name": "出合",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3352529,
+          33.7968148
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 春森上",
+        "name": "春森上",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3309212,
+          33.8045946
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 出合",
+        "name": "出合",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3647889,
+          33.8034383
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 谷口",
+        "name": "谷口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.372847,
+          33.8064879
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上那賀病院前",
+        "name": "上那賀病院前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3749161,
+          33.8079194
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 臼ケ谷口",
+        "name": "臼ケ谷口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.468702,
+          33.8017673
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島バス南部 川口本社",
+        "name": "徳島バス南部 川口本社",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3026741,
+          33.7933522
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 平谷",
+        "name": "平谷",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7546171,
+          33.9597657
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 岡ノ鼻",
+        "name": "岡ノ鼻",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8936047,
+          34.0373291
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三好バスストップ (Miyoshi Bus Stop)",
+        "name": "三好バスストップ (Miyoshi Bus Stop)",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8943328,
+          34.0387784
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三好バスストップ (Miyoshi Bus Stop)",
+        "name": "三好バスストップ (Miyoshi Bus Stop)",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8074623,
+          34.0272283
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿波池田バスターミナル",
+        "name": "阿波池田バスターミナル",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": "Q11657555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.576845,
+          34.0505787
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 津田一丁目",
+        "name": "津田一丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.59003,
+          34.0668603
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央市場正門前",
+        "name": "中央市場正門前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5450017,
+          34.0765886
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南出来島",
+        "name": "南出来島",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.545249,
+          34.0766917
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南出来島",
+        "name": "南出来島",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5579729,
+          34.0701927
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 新蔵町",
+        "name": "新蔵町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5505431,
+          34.0667844
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 仲之町一丁目",
+        "name": "仲之町一丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5582549,
+          34.0651766
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 県庁前",
+        "name": "県庁前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5575469,
+          34.0655105
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 県庁前",
+        "name": "県庁前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5616049,
+          34.0715685
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福島橋",
+        "name": "福島橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5484243,
+          34.0670649
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 紺屋町",
+        "name": "紺屋町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6259681,
+          34.2047724
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 追分",
+        "name": "追分",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6253076,
+          34.1992041
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 野",
+        "name": "野",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6237794,
+          34.1951907
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鳴門東小学校前",
+        "name": "鳴門東小学校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6276707,
+          34.2099678
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 黒山",
+        "name": "黒山",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5553613,
+          34.1157099
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5905387,
+          34.1397877
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 免許センター口",
+        "name": "免許センター口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6296988,
+          34.2159062
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 八木の鼻 (徳島バス)",
+        "name": "八木の鼻",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.558217,
+          34.0825034
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 助任本町",
+        "name": "助任本町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5564881,
+          34.1039893
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 四国大学前",
+        "name": "四国大学前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6361873,
+          34.2313317
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大塚国際美術館前 (徳島バス)",
+        "name": "大塚国際美術館前",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.558981,
+          34.0788068
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島大学前",
+        "name": "徳島大学前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6318868,
+          34.2193503
+        ]
+      },
+      "properties": {
+        "内容": "バス停: アオアヲナルトリゾート前",
+        "name": "アオアヲナルトリゾート前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5929036,
+          34.1526723
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大津橋",
+        "name": "大津橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6078625,
+          34.1726993
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 市役所前",
+        "name": "市役所前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5772694,
+          34.1333409
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 広島",
+        "name": "広島",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.617358,
+          34.1348865
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島阿波おどり空港",
+        "name": "徳島阿波おどり空港",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5550837,
+          34.1178667
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 東亜合成前",
+        "name": "東亜合成前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5844107,
+          34.1353703
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 笹木野",
+        "name": "笹木野",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5574029,
+          34.125064
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 老門",
+        "name": "老門",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.562977,
+          34.1294565
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 老門東",
+        "name": "老門東",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5679427,
+          34.1326355
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鍋川橋",
+        "name": "鍋川橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.608969,
+          34.1793599
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鳴門駅前",
+        "name": "鳴門駅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5477162,
+          34.0709591
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 新町",
+        "name": "新町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5519096,
+          34.0882276
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5707771,
+          34.1332101
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5583249,
+          34.0826207
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 助任本町 (徳島バス)",
+        "name": "助任本町",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5583497,
+          34.0826096
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 助任本町五丁目 (徳島市営バス)",
+        "name": "助任本町五丁目",
+        "operator": "徳島市営バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5936728,
+          34.1442103
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 向喜来東",
+        "name": "向喜来東",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.556661,
+          34.1040125
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 四国大学前",
+        "name": "四国大学前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5930542,
+          34.1528675
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大津橋",
+        "name": "大津橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5761725,
+          34.1332128
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 広島",
+        "name": "広島",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5558823,
+          34.1117057
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 日清紡前",
+        "name": "日清紡前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5559664,
+          34.1118709
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 日清紡前",
+        "name": "日清紡前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5550374,
+          34.11949
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 東亜合成前",
+        "name": "東亜合成前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5927171,
+          34.1572602
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 矢倉",
+        "name": "矢倉",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5572094,
+          34.1247433
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 老門",
+        "name": "老門",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5554428,
+          34.1162052
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鯛の浜",
+        "name": "鯛の浜",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5842472,
+          34.0916751
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 十郎兵衛屋敷",
+        "name": "十郎兵衛屋敷",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5551246,
+          34.0596477
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南昭和町一丁目",
+        "name": "南昭和町一丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5860646,
+          34.0933415
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 宮島金比羅前",
+        "name": "宮島金比羅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2996698,
+          33.7940252
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 平谷中学前",
+        "name": "平谷中学前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.551012,
+          34.073896
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島駅前バスターミナル",
+        "name": "徳島駅前バスターミナル",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5484929,
+          34.0672694
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 紺屋町 (徳島バス)",
+        "name": "紺屋町",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5941749,
+          34.1386107
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 免許センター前",
+        "name": "免許センター前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5814518,
+          34.1424347
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 海部観光松茂駐車場バス停 (海部観光)",
+        "name": "海部観光松茂駐車場バス停",
+        "operator": "海部観光",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5511051,
+          34.0737688
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島駅前",
+        "name": "徳島駅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5772602,
+          34.1421058
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 松茂",
+        "name": "松茂",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5771084,
+          34.1422402
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 松茂",
+        "name": "松茂",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5770238,
+          34.142338
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 松茂",
+        "name": "松茂",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5749072,
+          34.1254149
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5771517,
+          34.1234337
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 工業団地前",
+        "name": "工業団地前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5784112,
+          34.1176821
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大松東",
+        "name": "大松東",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5766683,
+          34.1078374
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5758626,
+          34.1034936
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5735802,
+          34.0976234
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5749464,
+          34.0998179
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5645636,
+          34.0841312
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 吉野川大橋",
+        "name": "吉野川大橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5622563,
+          34.0824056
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北常三島",
+        "name": "北常三島",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5585647,
+          34.0740483
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中徳島町二丁目",
+        "name": "中徳島町二丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5511615,
+          34.0723124
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 八百屋町",
+        "name": "八百屋町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.551343,
+          34.0667607
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5731382,
+          34.0974662
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5750276,
+          34.1007689
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5758785,
+          34.1049808
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5765343,
+          34.10885
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5772686,
+          34.1130073
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5781829,
+          34.1182383
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5757735,
+          34.1241889
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5768574,
+          34.1432704
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5768968,
+          34.1433275
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9048525,
+          33.8682259
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 京上 Kyojo",
+        "name": "京上 Kyojo",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8925887,
+          33.856069
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 栃ノ瀬  Tochinose",
+        "name": "栃ノ瀬  Tochinose",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8185863,
+          33.9235992
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 風呂ノ谷",
+        "name": "風呂ノ谷",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5188608,
+          34.0834378
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 島田石橋",
+        "name": "島田石橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5175478,
+          34.0837027
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北島田一丁目",
+        "name": "北島田一丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.517635,
+          34.0839254
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北島田一丁目",
+        "name": "北島田一丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5223081,
+          34.0847497
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 矢三西",
+        "name": "矢三西",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5229726,
+          34.0850719
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 矢三西",
+        "name": "矢三西",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.525685,
+          34.0855879
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 科学技術高校",
+        "name": "科学技術高校",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5259244,
+          34.0854318
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 科学技術高校",
+        "name": "科学技術高校",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5581194,
+          34.0783243
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 助任橋・徳島大学前",
+        "name": "助任橋・徳島大学前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5869931,
+          34.2005681
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 岩上",
+        "name": "岩上",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5857863,
+          34.2009904
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 岩上",
+        "name": "岩上",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6091349,
+          34.1789001
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鳴門駅前(南行き)",
+        "name": "鳴門駅前(南行き)",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5943765,
+          34.1627039
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 吉永南(北行き)",
+        "name": "吉永南(北行き)",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5942177,
+          34.1623035
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 吉永南(南行き)",
+        "name": "吉永南(南行き)",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6085614,
+          34.1732516
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鳴門市役所前(南行き)",
+        "name": "鳴門市役所前(南行き)",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.608964,
+          34.1875409
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速鳴門",
+        "name": "高速鳴門",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6091903,
+          34.1872588
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速鳴門",
+        "name": "高速鳴門",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8264754,
+          33.8793676
+        ]
+      },
+      "properties": {
+        "内容": "バス停: かずら橋ホテル前",
+        "name": "かずら橋ホテル前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.821433,
+          33.8833611
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 祖谷美人前",
+        "name": "祖谷美人前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8203573,
+          33.8859969
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 祖谷大谷橋",
+        "name": "祖谷大谷橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.817499,
+          33.8917484
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西祖谷局前  Nishi-Iya Kyoku Mae",
+        "name": "西祖谷局前  Nishi-Iya Kyoku Mae",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.816532,
+          33.8924411
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西祖谷支所前",
+        "name": "西祖谷支所前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8161812,
+          33.8938966
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 一宇 Ichiu",
+        "name": "一宇 Ichiu",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8176518,
+          33.9213414
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 祖谷温泉前",
+        "name": "祖谷温泉前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8179826,
+          33.9357767
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大宮谷",
+        "name": "大宮谷",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7990574,
+          33.9590929
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 出合",
+        "name": "出合",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8069078,
+          33.9454739
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 神峡",
+        "name": "神峡",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.809613,
+          33.9421538
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北日浦",
+        "name": "北日浦",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8126182,
+          33.9451671
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南日浦",
+        "name": "南日浦",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8185932,
+          33.9439008
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三次谷",
+        "name": "三次谷",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8192489,
+          33.9268133
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 新山",
+        "name": "新山",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8201232,
+          33.9150108
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 眠谷",
+        "name": "眠谷",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8150341,
+          33.9119368
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 前田丘",
+        "name": "前田丘",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8155149,
+          33.8999591
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 一宇発電所上",
+        "name": "一宇発電所上",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8220484,
+          33.8812372
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 善徳西",
+        "name": "善徳西",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8337643,
+          33.8754624
+        ]
+      },
+      "properties": {
+        "内容": "バス停: かずら橋",
+        "name": "かずら橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8301245,
+          33.8765043
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大窪",
+        "name": "大窪",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8280307,
+          33.8772324
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 善徳不動前",
+        "name": "善徳不動前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8165941,
+          33.8909487
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 祖谷大橋  Iya Ohashi",
+        "name": "祖谷大橋  Iya Ohashi",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8057047,
+          33.8877119
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 戸ノ谷",
+        "name": "戸ノ谷",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8413878,
+          33.8817065
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 郷鳴",
+        "name": "郷鳴",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8425853,
+          33.8849248
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 谷荒",
+        "name": "谷荒",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8448991,
+          33.8876467
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 谷荒上",
+        "name": "谷荒上",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8502105,
+          33.8926748
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 栗寄",
+        "name": "栗寄",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8591022,
+          33.8839803
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 石脇",
+        "name": "石脇",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9452913,
+          33.8639018
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 久保",
+        "name": "久保",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0897267,
+          33.8672839
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 見ノ越",
+        "name": "見ノ越",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1682907,
+          33.9132215
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 滝の宮",
+        "name": "滝の宮",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0443563,
+          33.8538705
+        ]
+      },
+      "properties": {
+        "内容": "バス停: Niju Kazurabashi 二重かずら橋",
+        "name": "Niju Kazurabashi 二重かずら橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0205768,
+          33.8548934
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名頃",
+        "name": "名頃",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0195337,
+          33.8563679
+        ]
+      },
+      "properties": {
+        "内容": "バス停: Nagoro-shita 名頃下",
+        "name": "Nagoro-shita 名頃下",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9210584,
+          33.8762602
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 東祖谷学校前 Higashi-Iya Gakko Mae",
+        "name": "東祖谷学校前 Higashi-Iya Gakko Mae",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.883711,
+          33.8598001
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 尾尻 Ojiri",
+        "name": "尾尻 Ojiri",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8127672,
+          33.8903704
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 秘境の湯前  Hikyo-no-yu Mae",
+        "name": "秘境の湯前  Hikyo-no-yu Mae",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7673282,
+          33.8766457
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大歩危駅前",
+        "name": "大歩危駅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5765383,
+          34.0599947
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5004165,
+          34.0724519
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上鮎喰",
+        "name": "上鮎喰",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4930546,
+          34.0733033
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 和田北",
+        "name": "和田北",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4958934,
+          34.0734348
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5606342,
+          34.0637932
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.353623,
+          34.1196783
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 土成 高速バス停",
+        "name": "土成 高速バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5512738,
+          34.0736997
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島駅前",
+        "name": "徳島駅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4917072,
+          34.073042
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 和田北",
+        "name": "和田北",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5144585,
+          34.0766198
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 蔵本公園前",
+        "name": "蔵本公園前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5003637,
+          34.0722564
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上鮎喰",
+        "name": "上鮎喰",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4957589,
+          34.0732864
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 和田東",
+        "name": "和田東",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5068232,
+          34.0724916
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4332014,
+          34.1341493
+        ]
+      },
+      "properties": {
+        "内容": "バス停: Rakan",
+        "name": "Rakan",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": "Q11608598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4320792,
+          34.1337933
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4649851,
+          34.141607
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4650389,
+          34.1417097
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5032221,
+          34.1589065
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 霊山寺前(バスのりば)",
+        "name": "霊山寺前(バスのりば)",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5574476,
+          34.0715283
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島中央公園・裁判所北",
+        "name": "徳島中央公園・裁判所北",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5568253,
+          34.0719399
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島中央公園・鷲の門前",
+        "name": "徳島中央公園・鷲の門前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8051922,
+          34.027193
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 池田駅前",
+        "name": "池田駅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8047775,
+          34.0271337
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3555198,
+          33.6144119
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3561409,
+          33.6134007
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.352079,
+          33.6106235
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3521607,
+          33.6105846
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3514729,
+          33.607825
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 海部高校前",
+        "name": "海部高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3516197,
+          33.6078315
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 海部高校前",
+        "name": "海部高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3518865,
+          33.604535
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3520897,
+          33.6066547
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3511113,
+          33.6037551
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3513028,
+          33.6029266
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3519753,
+          33.6013085
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3527855,
+          33.5959348
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3526492,
+          33.5960748
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3528841,
+          33.59378
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.353092,
+          33.5936714
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3520912,
+          33.593581
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3620956,
+          33.9694746
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3569009,
+          33.613321
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿波海南文化村",
+        "name": "阿波海南文化村",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": "Q28691959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3511208,
+          33.6064335
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿波海南 (阿佐海岸鉄道)",
+        "name": "阿波海南",
+        "operator": "阿佐海岸鉄道",
+        "ref": "",
+        "url": "",
+        "url2": "Q4829614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3510305,
+          33.6065146
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿波海南 (阿佐海岸鉄道)",
+        "name": "阿波海南",
+        "operator": "阿佐海岸鉄道",
+        "ref": "",
+        "url": "",
+        "url2": "Q4829614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3075229,
+          33.5691297
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 道の駅 宍喰温泉 (阿佐海岸鉄道;徳島バス)",
+        "name": "道の駅 宍喰温泉",
+        "operator": "阿佐海岸鉄道;徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5802352,
+          34.1587448
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1727021,
+          33.84511
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 岩倉",
+        "name": "岩倉",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6411145,
+          34.2356054
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6095769,
+          34.1893838
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1696852,
+          34.0508707
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 穴吹辻",
+        "name": "穴吹辻",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1699809,
+          34.049517
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 穴吹中",
+        "name": "穴吹中",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6099156,
+          34.1895628
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6133864,
+          34.194943
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.623552,
+          34.194974
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6131678,
+          34.1864822
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5817717,
+          33.9914978
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 芝生 (徳島バス)",
+        "name": "芝生",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5816217,
+          33.9937472
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 芝生中 (徳島バス)",
+        "name": "芝生中",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5819008,
+          33.9889746
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 恩山寺前 (徳島バス)",
+        "name": "恩山寺前",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5483696,
+          34.0755324
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6480271,
+          33.8772139
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 橘営業所",
+        "name": "橘営業所",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.553472,
+          34.0713796
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央郵便局前・徳島市役所北",
+        "name": "中央郵便局前・徳島市役所北",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.550882,
+          34.0721644
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 八百屋町",
+        "name": "八百屋町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5474154,
+          34.0712153
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 新町",
+        "name": "新町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6633345,
+          33.9188477
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿南駅",
+        "name": "阿南駅",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6631883,
+          33.9190564
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿南駅前",
+        "name": "阿南駅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6632111,
+          33.9191921
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿南駅前",
+        "name": "阿南駅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6619411,
+          33.9196161
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿南駅北",
+        "name": "阿南駅北",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6620564,
+          33.9195046
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 阿南駅北",
+        "name": "阿南駅北",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5591634,
+          34.0801628
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 助任橋四丁目",
+        "name": "助任橋四丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5617541,
+          34.0809923
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 市民病院前",
+        "name": "市民病院前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5628441,
+          34.0819953
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 市民病院玄関前",
+        "name": "市民病院玄関前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.564622,
+          34.0794042
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中常三島",
+        "name": "中常三島",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.564461,
+          34.079312
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中常三島",
+        "name": "中常三島",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5868702,
+          34.0715184
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金沢二丁目",
+        "name": "金沢二丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5870029,
+          34.0715683
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金沢二丁目",
+        "name": "金沢二丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5885038,
+          34.0710421
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北沖洲二丁目",
+        "name": "北沖洲二丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5887704,
+          34.0708414
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北沖洲二丁目",
+        "name": "北沖洲二丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.567695,
+          34.0787603
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 住吉四丁目",
+        "name": "住吉四丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5680078,
+          34.0787726
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 住吉四丁目",
+        "name": "住吉四丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5724438,
+          34.0775811
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 住吉新橋",
+        "name": "住吉新橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5778895,
+          34.075257
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 城東大橋",
+        "name": "城東大橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5805741,
+          34.0737968
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 市立高校前",
+        "name": "市立高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.58099,
+          34.0737059
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 市立高校前",
+        "name": "市立高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5838787,
+          34.0725626
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金沢住宅前",
+        "name": "金沢住宅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5839498,
+          34.072641
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金沢住宅前",
+        "name": "金沢住宅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5907871,
+          34.0701333
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央市場北口",
+        "name": "中央市場北口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5908402,
+          34.0702197
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央市場北口",
+        "name": "中央市場北口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5901983,
+          34.0669777
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央市場正門前",
+        "name": "中央市場正門前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5890527,
+          34.0647023
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央市場口",
+        "name": "中央市場口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.589088,
+          34.0644997
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中央市場口",
+        "name": "中央市場口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.587947,
+          34.062099
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南沖洲三丁目",
+        "name": "南沖洲三丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5878311,
+          34.0615264
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南沖洲三丁目",
+        "name": "南沖洲三丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5848616,
+          34.0584532
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南沖洲五丁目",
+        "name": "南沖洲五丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5842259,
+          34.0585599
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南沖洲五丁目",
+        "name": "南沖洲五丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5926243,
+          34.0582709
+        ]
+      },
+      "properties": {
+        "内容": "バス停: サテライト前",
+        "name": "サテライト前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5864996,
+          34.0586783
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南沖洲四丁目",
+        "name": "南沖洲四丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.586639,
+          34.0587281
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南沖洲四丁目",
+        "name": "南沖洲四丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5870197,
+          34.0575449
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南沖洲四丁目",
+        "name": "南沖洲四丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5869459,
+          34.0576599
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南沖洲四丁目",
+        "name": "南沖洲四丁目",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5844467,
+          34.0565766
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南海フェリー前",
+        "name": "南海フェリー前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6013932,
+          33.976443
+        ]
+      },
+      "properties": {
+        "内容": "バス停: あいさい広場",
+        "name": "あいさい広場",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2922357,
+          34.0303437
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2299819,
+          34.0458363
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6372302,
+          34.2311931
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大塚国際美術館前（高速バス）",
+        "name": "大塚国際美術館前（高速バス）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3945228,
+          34.1201095
+        ]
+      },
+      "properties": {
+        "内容": "バス停: Higashihara",
+        "name": "Higashihara",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.4323456,
+          34.1413032
+        ]
+      },
+      "properties": {
+        "内容": "バス停: Dainichiji-guchi",
+        "name": "Dainichiji-guchi",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3437455,
+          33.9683408
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 神山高校前",
+        "name": "神山高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3441779,
+          34.0685965
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3442521,
+          34.068658
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5473218,
+          34.0607242
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金比羅下 (徳島バス)",
+        "name": "金比羅下",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5504757,
+          34.0741038
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 徳島駅前バスターミナル",
+        "name": "徳島駅前バスターミナル",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8061758,
+          34.0324798
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8017324,
+          34.0313301
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停 (四国バス)",
+        "name": "名称不明バス停",
+        "operator": "四国バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3349665,
+          34.0693527
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鴨島営業所",
+        "name": "鴨島営業所",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6063142,
+          34.1759035
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 撫養大道",
+        "name": "撫養大道",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6074199,
+          34.1762383
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 撫養大道",
+        "name": "撫養大道",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5493469,
+          34.0767138
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 体育館前",
+        "name": "体育館前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5468593,
+          34.0752275
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 郷土文化会館前 (徳島バス)",
+        "name": "郷土文化会館前",
+        "operator": "徳島バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5489642,
+          34.0765733
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 体育館前",
+        "name": "体育館前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    }
+  ]
+}
