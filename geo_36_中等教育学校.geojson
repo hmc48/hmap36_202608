@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_36_中等教育学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "36201", "P29_002": "D236220100010", "P29_003": "16003", "P29_004": "徳島県立城ノ内中等教育学校", "P29_005": "徳島県徳島市北田宮1-9-30", "P29_006": "2", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 134.54551982800217, 34.091838737618914 ] } }
+]
+}
